@@ -79,6 +79,9 @@ def main():
         "raw",
         "dng",
         "cr2",
+        "orf",
+        "arw",
+        "xmp",
         "JPEG",
         "JPG",
         "PNG",
@@ -91,6 +94,9 @@ def main():
         "RAW",
         "DNG",
         "CR2",
+        "ORF",
+        "ARW",
+        "XMP",
     ]
 
     # media type subfolder names
